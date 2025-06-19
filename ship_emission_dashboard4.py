@@ -34,7 +34,7 @@ pollutants = {
 st.sidebar.title("Shipping Emission Dashboard")
 
 selected_month = st.sidebar.selectbox("Select month", [
-    "jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "nov"
+    "jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"
 ])
 selected_pollutant = st.sidebar.selectbox("Select pollutant", list(pollutants.keys()))
 show_monthly_plot = st.sidebar.checkbox("Show daily emission time series")
@@ -59,17 +59,32 @@ if "time" not in ds.variables:
 time_var = ds["time"]
 time_units = time_var.attrs.get("units", None)
 
-if time_units is None:
-    base_date = datetime.date(2023, 2, 1)
-else:
-    try:
-        base_date = datetime.datetime.strptime(
-            time_units.split("since")[1].strip(), "%Y-%m-%d %H:%M:%S"
-        ).date()
-    except Exception as e:
-        st.error(f"Failed to parse time units: {e}")
-        st.stop()
+# Use selected_month to assign base_date
+month_map = {
+    "jan": "2023-01-01",
+    "feb": "2023-02-01",
+    "mar": "2023-03-01",
+    "apr": "2023-04-01",
+    "may": "2023-05-01",
+    "jun": "2023-06-01",
+    "jul": "2023-07-01",
+    "aug": "2023-08-01",
+    "sep": "2023-09-01",
+    "oct": "2023-10-01",
+    "nov": "2023-11-01",
+    "dec": "2023-12-01"
+}
 
+#if time_units is None:
+#    base_date = datetime.date(2023, 2, 1)
+#else:
+try:
+    base_date = datetime.datetime.strptime(month_map[selected_month], "%Y-%m-%d").date()
+except KeyError:
+    st.error(f"Invalid month selection: {selected_month}")
+    st.stop()
+
+# Get number of days and selected index
 num_days = ds.dims["time"]
 selected_day = st.sidebar.slider("Select day of month", 1, num_days, 1)
 day_index = selected_day - 1
