@@ -1,0 +1,12 @@
+streamlit
+xarray
+pyproj
+datetime
+cartopy
+numpy
+calendar
+os
+folium
+streamlit-folium
+pandas
+matplotlib
