@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/duch/miniconda3/bin/python3 /home/duch/shipping/shipall_core_veryfast.py
