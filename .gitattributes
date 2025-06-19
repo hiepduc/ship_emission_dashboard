@@ -1,0 +1,11 @@
+monthdailysum/daysumapr2023.nc filter=lfs diff=lfs merge=lfs -text
+monthdailysum/daysumfeb2023.nc filter=lfs diff=lfs merge=lfs -text
+monthdailysum/daysumjan2023.nc filter=lfs diff=lfs merge=lfs -text
+monthdailysum/daysumjul2023.nc filter=lfs diff=lfs merge=lfs -text
+monthdailysum/daysummay2023.nc filter=lfs diff=lfs merge=lfs -text
+monthdailysum/daysumnov2023.nc filter=lfs diff=lfs merge=lfs -text
+monthdailysum/daysumsep2023.nc filter=lfs diff=lfs merge=lfs -text
+monthdailysum/daysumaug2023.nc filter=lfs diff=lfs merge=lfs -text
+monthdailysum/daysumjun2023.nc filter=lfs diff=lfs merge=lfs -text
+monthdailysum/daysummar2023.nc filter=lfs diff=lfs merge=lfs -text
+*.nc filter=lfs diff=lfs merge=lfs -text
