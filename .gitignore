@@ -1,0 +1,5 @@
+monthdailysum/*.nc
+monthhour/*.nc
+monthtimesum/*.nc
+speciate/*.mdb
+speciate/**/*.accdb
