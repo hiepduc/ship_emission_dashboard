@@ -1,0 +1,127 @@
+SPECIES_ID,SPECIES_NAME,WEIGHT_PERCENT
+3377,"ROCP3CYC, Cyclic Hydrocarbons, C* = 1e3 ug m-3",13.22849030398
+3379,"ROCP5CYC, Cyclic Hydrocarbons, C* = 1e5 ug m-3",9.17177179424
+3378,"ROCP4CYC, Cyclic Hydrocarbons, C* = 1e4 ug m-3",8.70531601391
+3389,"ROCP4BRN, Branched Hydrocarbons, C* = 1e4 ug m-3",8.3673976095
+452,Ethylene (or ethene),7.35652109707161
+3380,"ROCP6CYC, Cyclic Hydrocarbons, C* = 1e6 ug m-3",5.33488771055288
+3390,"ROCP5BRN, Branched Hydrocarbons, C* = 1e5 ug m-3",5.30319064559
+3391,"ROCP6BRN, Branched Hydrocarbons, C* = 1e6 ug m-3",3.53321010868
+3388,"ROCP3BRN, Branched Hydrocarbons, C* = 1e3 ug m-3",2.99778802136
+529,Methane,2.31
+327,C9-c12 isoalkanes,2.21078606685449
+465,Formaldehyde,1.35008618998548
+283,Acrolein (or 2-propenal),1.28953567506454
+282,Acetylene (or ethyne),1.28443534149336
+1049,Pentadecane,1.08291533718
+1043,Heptadecane,1.04387606861999
+1051,Tetradecane,1.0010177072
+1045,Hexadecane,0.988117742699999
+603,N-nonane,0.983398413923197
+1048,Octadecane,0.96673105714
+1047,Nonadecane,0.95077583789
+382,Crotonaldehyde (or 2-Butenal),0.857640811370225
+281,Acetone,0.83673057437851
+737,Trans-2-butene (or (2E)-2-Butene),0.665031744512557
+524,M-xylene,0.65186693429377
+673,Propionaldehyde (or Propanal || 1-Propanone || 1-Propanal),0.612159607136319
+2164,Methylbenzaldehyde,0.600468459137481
+609,N-tridecane,0.58575871593
+108,1-pentene,0.55928080374371
+717,Toluene,0.519134360870244
+599,N-dodecane,0.51540315945
+198,2-methyloctane,0.494653589976971
+611,Naphthalene,0.45718372936
+1595,N-heneicosane,0.43944635144
+608,N-propylbenzene,0.423079050553311
+1042,Eicosane,0.41797477327
+449,Ethylbenzene,0.401762053768472
+118,"2,2,4-trimethylpentane",0.343961217849005
+106,1-nonene,0.341948045958957
+604,N-octane,0.331125171137825
+279,Acetaldehyde,0.309347320614139
+620,O-xylene,0.308058262017369
+517,Isovaleraldehyde (or 3-Methylbutanal),0.298204724291132
+112,"2,2,3-trimethylbutane",0.292482179047356
+78,1-hexene,0.284769644034672
+184,2-methyl-1-pentene,0.284769644034672
+536,Methyl ethyl ketone (or MEK || 2-butanone),0.272442152901095
+2119,Isobutyraldehyde (or α-Methylpropionaldehyde || Isobutanal || Isopropylaldehyde || Isopropylformaldehyde || 2-Methylpropanal || 2-Methyl-1-propanal),0.272442152901095
+364,Cis-1-ethyl-3-methylcyclopentane,0.272057687935705
+247,3-methyloctane,0.263676163647893
+248,3-methylpentane,0.243439599349468
+160,"2,6-dimethylheptane",0.238461809451364
+677,Propylcyclopentane,0.238461809451364
+151,"2,4-dimethyloctane",0.233561643082357
+149,"2,4-dimethylhexane",0.217656436828228
+59,"1,4-diethylbenzene ( or p-diethylbenzene)",0.216141848948729
+845,Valeraldehyde (or n-Pentanal || 1-pentanal),0.200101237593768
+125,"2,2-dimethyloctane",0.198760566544014
+1999,C-6 Compounds,0.198683509804366
+610,N-undecane,0.195049828968353
+44,"1,3,5-trimethylbenzene",0.194925213501788
+1712,"2,5-Dimethylbenzaldehyde",0.188728699870359
+89,1-Methyl-3-ethylbenzene (or 1-Ethyl-3-methylbenzene || 3-Ethyltoluene),0.18354003196011
+388,Cyclohexene,0.17353845135913
+81,1-Methyl-2-isopropylbenzene (or o-cymene || Ortho-Isopropyltoluene || 1-Isopropyl-2-methylbenzene),0.170251681610467
+30,"1,2,4-trimethylbenzene",0.16734199425317
+514,Isopropylbenzene (or cumene || 2-Phenylpropane),0.16342294374911
+86,"1-Methyl-2-tert-butylbenzene (or 2-tert-Butyltoluene || Benzene, 1-(1,1-dimethylethyl)-2-methyl-)",0.155465200910086
+301,Benzaldehyde,0.154132218627131
+550,Methylcyclohexane,0.153893257133372
+103,1-Methylcyclopentene,0.153818172674568
+63,"1-(1,1-dimethylethyl)-3,5-dimethylbenzene  (or tert-butyl-3,5-dimethylbenzene || 5-Tert-butyl-m-xylene)",0.150719608307991
+497,Isobutylene (or Isobutene || 2-Methylpropene),0.150573212883498
+302,Benzene,0.149851472251396
+592,N-butane,0.148658561513706
+1467,o-Tolualdehyde (or 2-Tolualdehyde),0.144244948386759
+264,4-methylheptane,0.137486356349495
+80,1-Methyl-2-ethylbenzene (or o-ethyltoluene || 1-Ethyl-2-methylbenzene || 2-ethyltoluene || 2-Ethylmethylbenzene),0.125754968962301
+181,2-methyl-1-butene,0.11706818578889
+600,N-heptane,0.116212198596222
+258,4-methyl-1-pentene,0.115600744940156
+100,1-Methyl-4-n-propylbenzene (or p-Propyltoluene),0.110858773067608
+596,N-butylbenzene,0.110858773067608
+130,"2,3,4-trimethylpentane",0.110486074557996
+94,1-Methyl-4-ethylbenzene (or 1-Ethyl-4-methylbenzene || 4-ethyltoluene),0.107401357426786
+353,"Cis-1,3-dimethylcyclopentane",0.101885357846596
+601,N-hexane,0.0990424777586702
+215,"3,5-dimethylheptane",0.0966061477883822
+155,"2,5-dimethylheptane",0.0966061477883822
+840,Hexaldehyde (or hexanal || Hexanaldehyde),0.0923889064595191
+390,Cyclopentane,0.0893403287288625
+152,"2,4-dimethylpentane",0.0839354901053852
+46,"1,3-butadiene",0.0822689217786402
+598,N-decane,0.081650794784201
+3,(2-methylpropyl)benzene (or isobutylbenzene),0.0783181929696099
+199,2-methylpentane (or isohexane),0.0646149667214338
+438,Ethane,0.0558800557019296
+605,N-pentane,0.0518895431327035
+226,3-ethylhexane,0.0488583261994895
+23,"1,2,3,5-tetramethylbenzene",0.0488216037013929
+245,3-methylhexane,0.0442832343808046
+60,"1,4-dimethyl-2-ethylbenzene (or 2-Ethyl-p-xylene)",0.0415629921535081
+511,Isoprene,0.0406752993647745
+385,Cyclohexane,0.040462471757057
+140,"2,3-dimethylpentane",0.0389525093853489
+3402,"ROCP6ALK, Linear Hydrocarbons, C* = 1e6 ug m-3",0.03779616331
+883,Fluorene,0.03742679742
+128,"2,3,3-trimethylpentane",0.034237476153328
+742,Trans-2-pentene (or (2E)-2-Pentene),0.0330250066865904
+724,"Trans-1,2-dimethylcyclohexane",0.0315514403182932
+847,Acenaphthylene,0.02809134564
+671,Propane,0.0277328014076848
+846,Acenaphthene,0.02138668556
+2005,C-7 Compounds,0.02034233493105
+606,N-pentylbenzene,0.019995611553183
+391,Cyclopentene,0.0191867417704556
+2011,C-8 Compounds,0.0174625173444495
+39,"1,2-dimethyl-4-ethylbenzene (or 2-Methyl-p-ethyltoluene || 4-Ethyl-o-xylene || 4-Ethyl-1,2-dimethylbenzene || 3,4-Dimethyl-1-ethylbenzene)",0.0174625173444495
+122,"2,2-dimethylbutane",0.0155624890093226
+362,Cis-1-ethyl-2-methylcyclopentane (or (Z)-1-Ethyl-2-methylcyclopentane),0.0155624890093226
+551,Methylcyclopentane,0.00813693383929274
+126,"2,2-dimethylpentane",0.00813693383929274
+3400,"ROCP4ALK, Linear Hydrocarbons, C* = 1e4 ug m-3",0.00769435747
+3401,"ROCP5ALK, Linear Hydrocarbons, C* = 1e5 ug m-3",0.00699883397699999
+3399,"ROCP3ALK, Linear Hydrocarbons, C* = 1e3 ug m-3",0.005902087885
+3338,"ROCP6ARO, Single-Ring Aromatics, C* = 1e6 ug m-3",5.44675479499999e-06

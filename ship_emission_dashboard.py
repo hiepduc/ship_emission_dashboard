@@ -30,6 +30,12 @@ pollutants = {
     "CO2e": "co2e_kg",
 }
 
+import geopandas as gpd
+
+# Load shapefile
+shapefile_path = "/home/duch/shipping/shapefiles/Maritime_Ports.shp"
+gdf = gpd.read_file(shapefile_path)
+
 # === Sidebar Inputs ===
 st.sidebar.title("Shipping Emission Dashboard")
 
@@ -140,6 +146,13 @@ gl.top_labels = False
 gl.right_labels = False
 gl.xlabel_style = {"size": 10}
 gl.ylabel_style = {"size": 10}
+
+# Add shapefile overlay
+try:
+    for geometry in gdf.geometry:
+        ax.add_geometries([geometry], crs=ccrs.PlateCarree(), facecolor='none', edgecolor='black', linewidth=1)
+except Exception as e:
+    st.warning(f"Failed to load shapefile: {e}")
 
 st.pyplot(fig)
 

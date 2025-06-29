@@ -1,0 +1,102 @@
+SPECIES_ID,SPECIES_NAME,WEIGHT_PERCENT
+452,Ethylene (or ethene),22.1037202527265
+327,C9-c12 isoalkanes,6.64262307045025
+465,Formaldehyde,4.05652713565592
+283,Acrolein (or 2-propenal),3.87459444952882
+282,Acetylene (or ethyne),3.85926976832341
+603,N-nonane,2.95476124501763
+382,Crotonaldehyde (or 2-Butenal),2.57690453444802
+281,Acetone,2.51407673491206
+529,Methane,2.30848795554332
+737,Trans-2-butene (or (2E)-2-Butene),1.9981830328234
+522,"M & p-xylene (or m,p-xylene)",1.95862747743548
+673,Propionaldehyde (or Propanal || 1-Propanone || 1-Propanal),1.83932113119962
+2164,Methylbenzaldehyde,1.80419340405254
+108,1-pentene,1.68043920041637
+717,Toluene,1.55981346808941
+198,2-methyloctane,1.48625748894559
+608,N-propylbenzene,1.27120154394211
+449,Ethylbenzene,1.20715157702331
+118,"2,2,4-trimethylpentane",1.03348069479818
+106,1-nonene,1.02743183223073
+604,N-octane,0.994912956251712
+279,Acetaldehyde,0.929478287617618
+620,O-xylene,0.925605126504487
+517,Isovaleraldehyde (or 3-Methylbutanal),0.895998763483952
+112,"2,2,3-trimethylbutane",0.878804556862233
+78,1-hexene,0.855631142117867
+184,2-methyl-1-pentene,0.855631142117867
+536,Methyl ethyl ketone (or MEK || 2-butanone),0.818591431232536
+2119,Isobutyraldehyde (or α-Methylpropionaldehyde || Isobutanal || Isopropylaldehyde || Isopropylformaldehyde || 2-Methylpropanal || 2-Methyl-1-propanal),0.818591431232536
+364,Cis-1-ethyl-3-methylcyclopentane,0.817436251361298
+247,3-methyloctane,0.792252762406509
+248,3-methylpentane,0.731449109125355
+160,"2,6-dimethylheptane",0.716492626699806
+677,Propylcyclopentane,0.716492626699806
+151,"2,4-dimethyloctane",0.701769375695518
+149,"2,4-dimethylhexane",0.65397990760525
+59,"1,4-diethylbenzene ( or p-diethylbenzene)",0.649429112303544
+845,Valeraldehyde (or n-Pentanal || 1-pentanal),0.601232800116992
+125,"2,2-dimethyloctane",0.597204561946565
+1999,C-6 Compounds,0.596973033950484
+599,N-dodecane,0.588603260180042
+610,N-undecane,0.586055119607877
+44,"1,3,5-trimethylbenzene",0.585680695044089
+89,1-Methyl-3-ethylbenzene (or 1-Ethyl-3-methylbenzene || 3-Ethyltoluene),0.551472288275712
+388,Cyclohexene,0.52142110778865
+81,1-Methyl-2-isopropylbenzene (or o-cymene || Ortho-Isopropyltoluene || 1-Isopropyl-2-methylbenzene),0.511545538013004
+30,"1,2,4-trimethylbenzene",0.502802965919289
+514,Isopropylbenzene (or cumene || 2-Phenylpropane),0.491027618412676
+86,"1-Methyl-2-tert-butylbenzene (or 2-tert-Butyltoluene || Benzene, 1-(1,1-dimethylethyl)-2-methyl-)",0.467117440672282
+301,Benzaldehyde,0.463112304946822
+550,Methylcyclohexane,0.462394310635938
+103,1-Methylcyclopentene,0.462168709176303
+63,"1-(1,1-dimethylethyl)-3,5-dimethylbenzene  (or tert-butyl-3,5-dimethylbenzene || 5-Tert-butyl-m-xylene)",0.452858629239762
+497,Isobutylene (or Isobutene || 2-Methylpropene),0.452418762587989
+302,Benzene,0.450250189616671
+592,N-butane,0.446665918662163
+264,4-methylheptane,0.413097430230146
+80,1-Methyl-2-ethylbenzene (or o-ethyltoluene || 1-Ethyl-2-methylbenzene || 2-ethyltoluene || 2-Ethylmethylbenzene),0.377848797863599
+181,2-methyl-1-butene,0.351748114906104
+600,N-heptane,0.349176179020331
+258,4-methyl-1-pentene,0.34733897862818
+100,1-Methyl-4-n-propylbenzene (or p-Propyltoluene),0.333091046330074
+596,N-butylbenzene,0.333091046330074
+130,"2,3,4-trimethylpentane",0.331971220421211
+94,1-Methyl-4-ethylbenzene (or 1-Ethyl-4-methylbenzene || 4-ethyltoluene),0.322702745587448
+353,"Cis-1,3-dimethylcyclopentane",0.306129135828635
+601,N-hexane,0.297587295728161
+155,"2,5-dimethylheptane",0.290266993975082
+215,"3,5-dimethylheptane",0.290266993975082
+840,Hexaldehyde (or hexanal || Hexanaldehyde),0.277595688842465
+390,Cyclopentane,0.268435801044033
+611,Naphthalene,0.259376032423193
+152,"2,4-dimethylpentane",0.252196189871792
+46,"1,3-butadiene",0.247188747097883
+598,N-decane,0.245331495998399
+3,(2-methylpropyl)benzene (or isobutylbenzene),0.23531821666808
+199,2-methylpentane (or isohexane),0.19414491308922
+1712,"2,5-Dimethylbenzaldehyde",0.188731620942693
+438,Ethane,0.167899623393313
+605,N-pentane,0.155909557094138
+226,3-ethylhexane,0.146801832448795
+23,"1,2,3,5-tetramethylbenzene",0.146691494428441
+1467,o-Tolualdehyde (or 2-Tolualdehyde),0.14424718141127
+245,3-methylhexane,0.133055314084723
+60,"1,4-dimethyl-2-ethylbenzene (or 2-Ethyl-p-xylene)",0.124881957033245
+511,Isoprene,0.122214757384839
+385,Cyclohexane,0.121575285620185
+140,"2,3-dimethylpentane",0.117038387991062
+128,"2,3,3-trimethylpentane",0.102871395524772
+742,Trans-2-pentene (or (2E)-2-Pentene),0.0992283575489431
+724,"Trans-1,2-dimethylcyclohexane",0.0948008174583734
+671,Propane,0.083327169537186
+2005,C-7 Compounds,0.0611214560118506
+606,N-pentylbenzene,0.0600796759819115
+391,Cyclopentene,0.057649310663809
+2011,C-8 Compounds,0.0524686323104105
+39,"1,2-dimethyl-4-ethylbenzene (or 2-Methyl-p-ethyltoluene || 4-Ethyl-o-xylene || 4-Ethyl-1,2-dimethylbenzene || 3,4-Dimethyl-1-ethylbenzene)",0.0524686323104105
+122,"2,2-dimethylbutane",0.0467597252385326
+362,Cis-1-ethyl-2-methylcyclopentane (or (Z)-1-Ethyl-2-methylcyclopentane),0.0467597252385326
+551,Methylcyclopentane,0.0244485824047402
+126,"2,2-dimethylpentane",0.0244485824047402
